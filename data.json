@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "name": "Abdul Muhammad",
+    "email": "chaknuratbu69@gmail.com",
+    "phone": "+6391234567489",
+    "address": {
+        "street": "69 Bulag St",
+        "city": "Hanapin City",
+        "state": "HC",
+        "zip": "9999"
+    },
+    "company": {
+        "name": "Anak ni Foreman",
+        "position": "Naghahalo ng semento",
+        "department": "Way Maker"
+    }
+}
